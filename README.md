@@ -5,7 +5,7 @@ My project is aiming to realize the BA construction in Mandarin Chinese using th
 (1) a. Tom  ba  neige  pingguo  chi  le.  
        Tom  BA  that   apple    ate  ASP.  
        “Tom ate the apple.”  
-    b. Tom   chi   le   nei’ge    ping’guo.  
+    b. Tom   chi   le   neige    pingguo.  
        Tom  ate  ASP  that     apple.  
        “Tom ate the apple.”  
   
@@ -69,7 +69,7 @@ Here are the ungrammatical sentences:
 1. Susan ba niunai he. (coherence violation: sentence requires a tense, ‘he’ cannot indicate any tense)  
 2. Susan ba men guanshangle zhuozishang. (coherence violation: ‘guanshangle’ is a intransitive verb)  
 3. Susan ba shu fang zai. (completeness violation: missing locative complement in PP)  
-4. Susan ba wen’ti jieshide hen. (completeness violation: missing adjective in AP)  
+4. Susan ba wenti jieshide hen. (completeness violation: missing adjective in AP)  
 5. Nimen ba shuiguo xide hen ganjing. (out of vocabulary, ‘Nimen’ is not in the lexicon)  
 6. Susan ba yifu liang zai shiwai. (out of vocabulary, ‘shiwai’ is not in the lexicon)  
 7. Susan bang wo reng laji. (missing rule adaption: two VPs in a sentence)  
