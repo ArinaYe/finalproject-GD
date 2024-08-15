@@ -1,0 +1,54 @@
+# Grammatical sentences
+
+Susan ba niunai hele.
+
+Susan ba men guanshangle.
+
+Susan ba shu fang zai zhuozishang.
+
+Susan ba wenti jieshide hen qingchu.
+
+Susan ba shuiguo xide hen ganjing.
+
+Susan ba yifu liang zai yangtaishang.
+
+Susan ba laji rengjinle lajitong.
+
+Susan ba diannao xiuhaole.
+
+Susan ba che tingzaile tingchechang.
+
+Susan ba xinjian chaile.
+
+
+# 10 additional sentences that cannot be parsed by the grammar
+
+# coherence violation
+
+Susan ba niunai he.
+
+Susan ba men guanshangle zhuozishang.
+
+# completeness violation
+
+Susan ba shu fang zai.
+
+Susan ba wenti jieshide hen.
+
+# out of vocabulary
+
+Nimen ba shuiguo xide hen ganjing.
+
+Susan ba yifu liang zai shiwai.
+
+# missing rule adaption 
+
+Susan bang wo reng laji.
+
+Susan xiuhaole diannao?
+
+# word order violation
+
+Susan ba che tingchechang tingzaile.
+
+Susan ba chaile xinjian.
