@@ -82,7 +82,7 @@ My project is adapted from the grammar we have worked with in class. I didn’t 
 
 OT-Marks are introduced in this project for distinguishing the English word and Chinese word in case they are in the same form. For example, the Chinese word ‘men’ means ‘door’, but in English it is a noun indicating ‘male’, I added @(OT-MARK cat) to this Chinese word to clear the confusion and reduce the solutions.
 
-Since there is no subject-verb agreement in Standard Chinese, I only used Susan as the subject in the test suite instead of various Chinese pronouns, but I also included them in the lexicon part of the grammar, feel free to try out with those pronouns!
+Since there is no subject-verb agreement in Standard Chinese, I only used Susan as the subject in the testsuite instead of various Chinese pronouns, but I also included them in the lexicon part of the grammar, feel free to try out with those pronouns!
 
 IV. The remain challenges
 ------
