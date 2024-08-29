@@ -9,7 +9,7 @@ My project is aiming to realize the BA construction in Mandarin Chinese using th
        Tom  ate  ASP  that     apple.  
        “Tom ate the apple.”  
   
-                                                  (Tian, 2006, p.1)
+                                                  (Tian, 2003, p.1)
 ```
 As we can see from the example (1) above, 1a emphasizes the noun phrase (the apple) following BA, and it also expresses an underlying meaning that the apple has been finished completely, while 1b does not focus on the noun phrase and can either be interpreted as “the apple has been finished completely” or “Tom ate the apple but hasn’t finished yet”.
 
