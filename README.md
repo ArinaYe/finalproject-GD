@@ -108,4 +108,4 @@ https://github.com/ArinaYe/finalproject-GD
 
 VII. Reference
 ------
-Tian, J. (2006). *The BA construction in Mandarin Chinese: A syntactic-semantic analysis.*
+Tian, J. (2003). The Ba-construction in mandarin Chinese: A syntactic-semantic analysis. *University of Victoria*.
